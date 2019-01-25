@@ -2,9 +2,9 @@
     "code":1,
     "msg":"",
     "data":{
-        "latest_version":"1.0",
-        "latest_version_code":"1",
+        "latest_version":"0.4.0 Preview 5 (build 190125)",
+        "latest_version_code":"2",
         "minimum_version_code":"1",
-        "information":"1. 修復了界面滑動非常流暢的問題\n2. 湊合修改一下假裝更新\n3. 修復了 APP 能用的問題"
+        "information":"丢弃小数"
     }
 }
