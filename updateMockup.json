@@ -2,9 +2,9 @@
     "code":1,
     "msg":"",
     "data":{
-        "latest_version":"0.4.0 Preview 5 (build 190125)",
-        "latest_version_code":"2",
+        "latest_version":"0.4.1 Preview 6 (build 190125)",
+        "latest_version_code":"3",
         "minimum_version_code":"1",
-        "information":"丢弃小数"
+        "information":"投資的車丟棄小數"
     }
 }
