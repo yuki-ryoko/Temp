@@ -2,9 +2,9 @@
     "code":1,
     "msg":"",
     "data":{
-        "latest_version":"0.4.3 Preview 8 (build 190211)",
-        "latest_version_code":"5",
+        "latest_version":"0.4.4 Preview 9 (build 190211)",
+        "latest_version_code":"6",
         "minimum_version_code":"1",
-        "information":"增加自動登入機能"
+        "information":"· 增加自動登入機能\n· 隱藏 SKU Null\n· 增加發佈完成提示\n· 自適應 90% - 100% 表格顯示\n· 手動移除時分秒"
     }
 }
