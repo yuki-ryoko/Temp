@@ -1,0 +1,24 @@
+{
+    "dinnerListOptions":[
+        {
+            "type":"饮茶",
+            "price":"expensive"
+        },
+        {
+            "type":"M 记",
+            "price":"normal"
+        },
+        {
+            "type":"汉堡王",
+            "price":"normal--"
+        },
+        {
+            "type":"快餐",
+            "price":"cheap but no yin"
+        },
+        {
+            "type":"Other",
+            "price":"unknow"
+        }
+    ]
+}
